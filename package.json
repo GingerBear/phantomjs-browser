@@ -1,0 +1,8 @@
+{
+  "name": "phantomjs-browser",
+  "version": "0.0.1",
+  "dependencies": {
+    "phantom": "^0.7.2",
+    "rsvp": "^3.0.18"
+  }
+}
